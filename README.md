@@ -1,11 +1,6 @@
-# 4plusplus
-Imaginary company 4++'s repository for files concerning presenting ourselves to the public.
+# 4plusplus (Lines 1-15)
 
-
-
-
-
-
+[here comes a description of the whole team, something fun and creative, I'm down for doing this] 
 
 
 
@@ -62,5 +57,17 @@ Imaginary company 4++'s repository for files concerning presenting ourselves to 
 https://github.com/jcoppeja  <br>
 ![dude]( https://github.com/majaminnaert/4plusplus/blob/jens/dude.png)  <br>
 [dude] https://github.com/majaminnaert/4plusplus/blob/jens/dude.png
+
+## Maja Minnaert (Lines 66 - 81)
+
+
+
+
+
+
+
+
+
+
 
 
