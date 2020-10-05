@@ -47,15 +47,15 @@ Imaginary company 4++'s repository for files concerning presenting ourselves to 
 
 
 
-#__Jens Coppejans__#<br>
+# __Jens Coppejans__ <h1> <br>
 
-##Objectives##<br>
+## Objectives ## <h2> <br>
 
 <ul>
-<ls> *get coffee* </ls><br>
-<ls> **get a job in AI** </ls><br>
+<ls> _get coffee_ </ls><br>
+<ls> __get a job in AI__ </ls><br>
 <ls> more coffee </ls><br>
-<ls> ***set up skynet variant*** </ls><br>
+<ls> ___set up skynet variant___ </ls><br>
 <ls> ~~world domination by friday~~ </ls><br>
 </ul>
 
