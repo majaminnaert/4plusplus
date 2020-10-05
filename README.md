@@ -60,6 +60,6 @@ Imaginary company 4++'s repository for files concerning presenting ourselves to 
 
 
 https://github.com/jcoppeja <br>
-![dude]( ~/GNT-ARAI-1.25/Content/01.Tools/02.Git/4plusplus/dude.png)
+![dude]( ~4plusplus/dude.png) <br>
 *some markdown* 
 **very bold move**
