@@ -31,7 +31,7 @@ reiterating the assignment: "including one section per team member, with their p
 
 
 
-![image info](./pictures/Photo1light.jpg = 250x)
+![image info](./pictures/Photo1light.jpg=250x)
 
 ## **Emmanuel MORANO**
 
