@@ -31,13 +31,11 @@ reiterating the assignment: "including one section per team member, with their p
 
 
 
-##**Emmanuel MORANO**
+![image info](./pictures/Photo1light.jpg)
 
-![GitHub Logo](D:\EMPLOI\recherche 2020\Photo1light.jpg)
-Format: ![Alt Text](url)
+## **Emmanuel MORANO**
 
-https://github.com/emorano916 - automatic!
-[GitHub](https://github.com/emorano916)
+https://github.com/emorano916 
 
 *"After Becode, I would like to start working as a junior in data science and for a company with a nice atmosphere"*
 
