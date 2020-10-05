@@ -64,3 +64,30 @@
 
 
 ## Maja Minnaert (Lines 66 - 81)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image info](./pictures/Photo1light.jpg width="200" height="200") 
+
+## **Emmanuel MORANO**
+
+https://github.com/emorano916 
+
+*"After Becode, I would like to start working as a junior in data science and for a company with a nice atmosphere"*
+
+**WORK HARD, PLAY HARD**
