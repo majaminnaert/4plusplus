@@ -49,7 +49,7 @@ Imaginary company 4++'s repository for files concerning presenting ourselves to 
 
 # __Jens Coppejans__ <h1> <br>
 
-## Objectives ## <h2> <br>
+## Objectives <h2> <br>
 
 
  _get coffee_ <br>
@@ -59,7 +59,6 @@ Imaginary company 4++'s repository for files concerning presenting ourselves to 
  ~~world domination by friday~~ <br>
 
 
-https://github.com/jcoppeja <br>
-![dude]( ~4plusplus/dude.png) <br>
-*some markdown* 
-**very bold move**
+https://github.com/jcoppeja  <br>
+![dude]( /4plusplus/dude.png)  <br>
+
