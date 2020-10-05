@@ -13,9 +13,6 @@
 
 
 
-# Team members (Lines 16-17 for title)
-(this line will be removed at the end) reiterating the assignment: "including one section per team member, with their picture, name, link to their GitHub profile, a short blurb describing what is their objective after BeCode, and also: their favourite inspiration quote." [this line will be deprecated just before the finish line]
-## Chloe Musaka (Lines 18 - 33)
 
 
 
@@ -31,7 +28,6 @@
 
 
 
-## Emmanual Morano (Lines 34 - 49)
 
 
 
@@ -46,22 +42,21 @@
 
 
 
+# __Jens Coppejans__ <h1> <br>
 
-## Jens Coppejans (Lines 50 - 65)
-
-
-
+## Objectives <h2> <br>
 
 
+ _get coffee_ <br>
+ __get a job in AI__ <br>
+ more coffee <br>
+ ___set up skynet variant___ <br>
+ ~~world domination by friday~~ <br>
 
 
-
-
-
-
-
-
-
+https://github.com/jcoppeja  <br>
+![dude]( https://github.com/majaminnaert/4plusplus/blob/jens/dude.png)  <br>
+[dude] https://github.com/majaminnaert/4plusplus/blob/jens/dude.png
 
 ## Maja Minnaert (Lines 66 - 81)
 
@@ -76,18 +71,3 @@
 
 
 
-
-
-
-
-
-
-![image info](./pictures/Photo1light.jpg width="200" height="200") 
-
-## **Emmanuel MORANO**
-
-https://github.com/emorano916 
-
-*"After Becode, I would like to start working as a junior in data science and for a company with a nice atmosphere"*
-
-**WORK HARD, PLAY HARD**
