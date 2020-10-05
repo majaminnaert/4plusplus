@@ -59,7 +59,7 @@ Imaginary company 4++'s repository for files concerning presenting ourselves to 
  ~~world domination by friday~~ <br>
 
 
-https://github.com/jcoppeja
-
+https://github.com/jcoppeja <br>
+![dude]( ~/GNT-ARAI-1.25/Content/01.Tools/02.Git/4plusplus/dude.png)
 *some markdown* 
 **very bold move**
