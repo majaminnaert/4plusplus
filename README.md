@@ -13,3 +13,32 @@ reiterating the assignment: "including one section per team member, with their p
 ## Jens Coppejans (Lines 50 - 65)
 
 ## Maja Minnaert (Lines 66 - 81)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##**Emmanuel MORANO**
+
+![GitHub Logo](D:\EMPLOI\recherche 2020\Photo1light.jpg)
+Format: ![Alt Text](url)
+
+https://github.com/emorano916 - automatic!
+[GitHub](https://github.com/emorano916)
+
+*"After Becode, I would like to start working as a junior in data science and for a company with a nice atmosphere"*
+
+**WORK HARD, PLAY HARD**
