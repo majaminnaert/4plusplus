@@ -60,7 +60,7 @@ Imaginary company 4++'s repository for files concerning presenting ourselves to 
 
 
 https://github.com/jcoppeja  <br>
-![dude]( ~/4plusplus/dude.png)  <br>
+![dude]( https://github.com/majaminnaert/4plusplus/blob/jens/dude.png)  <br>
 [dude] https://github.com/majaminnaert/4plusplus/blob/jens/dude.png
 
 
