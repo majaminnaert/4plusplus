@@ -4,9 +4,52 @@ Imaginary company 4++'s repository for files concerning presenting ourselves to 
 
 
 
-#__Jens Coppejans__<br>
 
-##Objectives<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#__Jens Coppejans__<br>#
+
+##Objectives<br>##
 
 <ul>
 <ls>*get coffee*</ls><br>
